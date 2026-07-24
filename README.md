@@ -13,7 +13,7 @@
 
 ### GitHub Stats
 
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunilYadav092&show_icons=true&theme=radical)
+<!-- -- ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunilYadav092&show_icons=true&theme=radical) -- -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SunilYadav092&theme=radical)
 
@@ -27,6 +27,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 
 ### Contribution Snake
