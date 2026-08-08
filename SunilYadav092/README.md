@@ -18,17 +18,6 @@
 
 ---
 
-<pre align="center">
- ──────────────────────────────────────────────────────────────
-   🌦️  WEATHER OPS CONSOLE                          IST · IND   
-│  ──────────────────────────────────────────────────────────  │
-│  FORECAST     shipping reliable systems in the cloud         │
-│  PRESSURE     containers · k8s · IaC · CI/CD                 │
-│  VISIBILITY   observability first, guesswork never           │
-│  CONDITIONS   clear skies for deploys · storms welcome       │
-╰──────────────────────────────────────────────────────────────╯
-</pre>
-
 > **Sunil** means *calm and steady presence* -- I approach cloud infrastructure the same way: understand the signals, design for change, build for resilience, and keep systems running through every storm..
 
 
@@ -81,14 +70,7 @@ deploy → observe → improve → automate → sleep
 ## 🚀 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SunilYadav092/SunilYadav092/pull/1) in [SunilYadav092/SunilYadav092](https://github.com/SunilYadav092/SunilYadav092)
-2. 💪 Opened PR [#44](https://github.com/mausam-giri/PennyWise-ish/pull/44) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-3. 💪 Opened PR [#43](https://github.com/mausam-giri/PennyWise-ish/pull/43) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-4. 💪 Opened PR [#42](https://github.com/mausam-giri/PennyWise-ish/pull/42) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-5. 💪 Opened PR [#41](https://github.com/mausam-giri/PennyWise-ish/pull/41) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-6. 💪 Opened PR [#40](https://github.com/mausam-giri/PennyWise-ish/pull/40) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-7. 💪 Opened PR [#39](https://github.com/mausam-giri/PennyWise-ish/pull/39) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
-8. 💪 Opened PR [#38](https://github.com/mausam-giri/PennyWise-ish/pull/38) in [mausam-giri/PennyWise-ish](https://github.com/mausam-giri/PennyWise-ish)
+
 <!--END_SECTION:activity-->
 
 ---
@@ -140,8 +122,8 @@ deploy → observe → improve → automate → sleep
 
 ### 📡 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-mausam--giri-0f172a?style=for-the-badge&logo=github)](https://github.com/mausam-giri)
-[![Profile](https://img.shields.io/badge/Open%20to%20collaborate-0ea5e9?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/mausam-giri)
+[![GitHub](https://img.shields.io/badge/GitHub-mausam--giri-0f172a?style=for-the-badge&logo=github)](https://github.com/SunilYadav092)
+[![Profile](https://img.shields.io/badge/Open%20to%20collaborate-0ea5e9?style=for-the-badge&logo=handshake&logoColor=white)](https://github.com/SunilYadav092)
 
 <br/>
 
