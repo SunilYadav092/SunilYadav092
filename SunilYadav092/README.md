@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=720&height=90&lines=MAUSAM+KUMAR+GIRI;Software+Engineer+%7C+Cloud+%26+Ops" alt="Typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Sunil+Yadav+Y;Software+Engineer+%7C+Cloud+%26+Ops" alt="Typing header" />
 
   <br/>
 
