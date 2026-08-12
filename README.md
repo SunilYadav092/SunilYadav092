@@ -5,7 +5,10 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Sunil+Yadav+Y;Software+Engineer+%7C+Cloud+%26+Ops" alt="Typing header" />
+  <!-- Static header for reliability (replaced animated typing which was unreliable) -->
+  <h1>Hi, I'm Sunil Yadav Y 👋</h1>
+  <p><strong>Software Engineer | Cloud &amp; Ops</strong></p>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="60" />
 
   <br/>
 
@@ -107,13 +110,11 @@ I’m Sunil Yadav — Technical Trainer, Cloud & Full-Stack Educator, and Site R
 ---
 
 ## 🎛️ Fun Animations & Widgets
-- GitHub Skyline (visualizes your repo activity):  
-  ![GitHub Skyline](https://skyline.github.com/SunilYadav092.svg)
 
-- Animated typing (header) for a dynamic intro.
+- Animated typing removed for reliability; header now uses a static title and waving GIF.
 
-- Optional teacher GIF (can be replaced with static SVG for reliability):  
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme/master/gifs/teacher.gif" alt="teacher" width="120" />
+- Replaced teacher GIF with a static "Technical Trainer" badge for reliability:
+  <img src="https://img.shields.io/badge/Role-Technical%20Trainer-00A8E8?style=for-the-badge&logo=education&logoColor=white" alt="Technical Trainer" />
 
 ---
 
