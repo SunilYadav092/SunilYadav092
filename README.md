@@ -149,7 +149,7 @@ I’m Sunil Yadav — Technical Trainer, Cloud & Full-Stack Educator, and Site R
 <br/>
 
 <pre>
-  ☁️  if (weather === "storm") SunilYadav092.keepShipping();
+  ☁️  Sunil — Deep Blue. Calm by nature. Cloud by profession;
 </pre>
 
 <sub>built for the cloud · tuned for reliability · named for the weather</sub>
