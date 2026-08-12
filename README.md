@@ -6,7 +6,7 @@
 <div align="center">
 
   <!-- Static header for reliability (replaced animated typing which was unreliable) -->
-  <h1>Hi, I'm Sunil Yadav Y 👋</h1>
+  <h1>Hi, I'm Sunil Yadav Y </h1>
   <p><strong>Software Engineer | Cloud &amp; Ops</strong></p>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="60" />
 
@@ -109,19 +109,9 @@ I’m Sunil Yadav — Technical Trainer, Cloud & Full-Stack Educator, and Site R
 
 ---
 
-## 🎛️ Fun Animations & Widgets
-
-- Animated typing removed for reliability; header now uses a static title and waving GIF.
-
-- Replaced teacher GIF with a static "Technical Trainer" badge for reliability:
-  <img src="https://img.shields.io/badge/Role-Technical%20Trainer-00A8E8?style=for-the-badge&logo=education&logoColor=white" alt="Technical Trainer" />
-
----
-
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
-  ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunilYadav092&show_icons=true&theme=radical)
   <br/>
   <img src="https://streak-stats.demolab.com?user=SunilYadav092&theme=transparent&hide_border=true&ring=0ea5e9&fire=38bdf8" alt="GitHub streak" />
 </div>
