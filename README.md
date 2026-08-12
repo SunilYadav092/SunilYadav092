@@ -8,8 +8,7 @@
   <!-- Static header for reliability (replaced animated typing which was unreliable) -->
   <h1>Hi, I'm Sunil Yadav Y </h1>
   <p><strong>Software Engineer | Cloud &amp; Ops</strong></p>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="waving hand" width="60" />
-
+  
   <br/>
 
   <img src="https://komarev.com/ghpvc/?username=SunilYadav092&label=profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
