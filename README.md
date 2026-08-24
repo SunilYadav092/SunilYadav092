@@ -120,10 +120,18 @@ I’m Sunil Yadav — Technical Trainer, Cloud & Full-Stack Educator, and Site R
 
 ---
 
-## 📊 Contribution Graph
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilYadav092&bg_color=0f172a&color=38bdf8&line=0ea5e9&point=7dd3fc&area=true&hide_border=true&custom_title=Contribution%20Weather%20Map" alt="Contribution graph" />
+
+<img src="https://github-readme-streak-stats.demolab.com?user=SunilYadav092&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<a href="https://github.com/SunilYadav092?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+</a>
+
 </div>
 
 ---
