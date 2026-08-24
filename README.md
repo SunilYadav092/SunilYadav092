@@ -1,167 +1,452 @@
 <!--
-  Profile: Sunil Yadav (@Sunil)
-  Theme: Weather Ops Console — cloud, reliability, shipping
+  GitHub Profile: Sunil Yadav
+  Username: SunilYadav092
+  Theme: Weather Ops Console
 -->
 
 <div align="center">
 
-  <!-- Static header for reliability (replaced animated typing which was unreliable) -->
-  <h1>Hi, I'm Sunil Yadav Y </h1>
-  <p><strong>Software Engineer | Cloud &amp; Ops</strong></p>
-  
-  <br/>
+# Hi, I'm Sunil Yadav
 
-  <img src="https://komarev.com/ghpvc/?username=SunilYadav092&label=profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/SunilYadav092"><img src="https://img.shields.io/github/followers/SunilYadav092?label=followers&style=flat-square&color=0284c7" alt="Followers" /></a>
-  <img src="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/timezone-IST-0f172a?style=flat-square&labelColor=1e293b" alt="Timezone" />
+### AWS Lead Coach | Cloud & DevOps Trainer | Cloud Infrastructure
 
-  <br/><br/>
+<p>
+Building cloud skills, hands-on labs, automation, and production-oriented AWS solutions.
+</p>
 
-  <!-- Contact badges -->
-  <a href="http://myprofile-aws.s3-website-us-east-1.amazonaws.com/"><img src="https://img.shields.io/badge/Website-myprofile-00A8E8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:sunilyadavy092@gmail.com"><img src="https://img.shields.io/badge/Email-sunilyadavy092%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/sunil-yadav-y/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/SUNILYADAVgo"><img src="https://img.shields.io/badge/X-@SUNILYADAVgo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SunilYadav092&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile views" />
+
+<a href="https://github.com/SunilYadav092">
+<img src="https://img.shields.io/github/followers/SunilYadav092?label=Followers&style=flat-square&color=0284c7" alt="Followers" />
+</a>
+
+<img src="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square" alt="Open to work" />
+
+<img src="https://img.shields.io/badge/timezone-IST-0f172a?style=flat-square&labelColor=1e293b" alt="Timezone" />
+
+<br/><br/>
+
+<a href="http://myprofile-aws.s3-website-us-east-1.amazonaws.com/">
+<img src="https://img.shields.io/badge/Website-My%20Profile-00A8E8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
+
+<a href="mailto:sunilyadavy092@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/sunil-yadav-y/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://x.com/SUNILYADAVgo">
+<img src="https://img.shields.io/badge/X-@SUNILYADAVgo-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
 
 </div>
 
 ---
 
-> **Sunil** means *calm and steady presence* — I approach cloud infrastructure the same way: observe signals, design for change, build for resilience, and keep systems running through every storm.
+> **Observe. Design. Build. Automate. Monitor. Improve.**
 
-## 🛰️ Cloud Ops Radar
+I approach cloud infrastructure with a reliability-first mindset, combining AWS architecture, DevOps automation, hands-on training, and practical troubleshooting.
+
+---
+
+## ☁️ Cloud Ops Radar
 
 <div align="center">
 
 | Layer | Stack |
-|:-----:|:------|
-| **Compute** | ECS · EC2 · Containers · Kubernetes |
-| **Network** | VPC · ALB/ELB · Service discovery |
+|:---:|:---|
+| **Cloud** | AWS · Microsoft Azure |
+| **Compute** | EC2 · ECS · Containers · Kubernetes |
+| **Network** | VPC · ALB · ELB · Route 53 |
 | **Ship** | ECR · Docker · GitHub Actions · CI/CD |
-| **Guard** | IAM · Best-practice checks · Hardening |
-| **Signal** | Logs · Metrics · Alerts · Runbooks |
+| **Infrastructure** | Terraform · Infrastructure as Code |
+| **Security** | IAM · Security Best Practices · Hardening |
+| **Signal** | CloudWatch · Prometheus · Grafana |
+| **Development** | Python · JavaScript · TypeScript · Bash |
+| **Data** | S3 · RDS · PostgreSQL |
+| **Systems** | Linux · Nginx · Git |
+
+</div>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,nginx,githubactions,terraform,prometheus,grafana,python,nodejs,ts,git&theme=dark" alt="Cloud & Ops skills" />
+<div align="center">
 
-<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,nginx,githubactions,terraform,prometheus,grafana,python,nodejs,ts,git&theme=dark" alt="Cloud and DevOps skills" />
+
+</div>
+
+---
+
+## 👨‍🏫 About Me
+
+I am an **AWS Lead Coach and Technical Trainer** focused on cloud computing, DevOps, infrastructure automation, and hands-on technical education.
+
+My work includes:
+
+- AWS and Azure cloud training
+- Hands-on cloud lab development
+- AWS architecture and infrastructure design
+- AWS Well-Architected practices
+- DevOps and CI/CD implementation
+- Terraform infrastructure automation
+- Docker and Kubernetes training
+- Cloud certification preparation
+- Curriculum and syllabus development
+- Learner mentoring
+- Technical assessments
+- Training coordination
+- Cloud project implementation
+
+My objective is to connect **cloud concepts with real implementation**.
+
+---
+
+## 🎯 Current Focus
+
+- AWS Cloud Architecture
+- AWS Well-Architected Framework
+- Terraform
+- Docker
+- Kubernetes
+- GitHub Actions
+- CI/CD
+- CloudWatch
+- Prometheus
+- Grafana
+- Observability
+- Infrastructure Automation
+- DevOps
+- Cloud Certification Readiness
+- Technical Curriculum Development
+
+---
+
+## 🏗️ AWS Projects
+
+### AWS Polaris
+
+AWS best-practice and remediation focused project.
 
 <a href="https://github.com/SunilYadav092/aws-polaris">
-  <img src="https://img.shields.io/badge/aws--polaris-best%20practices%20%26%20remediation-0ea5e9?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="aws-polaris" />
+<img src="https://img.shields.io/badge/View%20Project-AWS%20Polaris-0ea5e9?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Polaris" />
 </a>
+
+---
+
+### ECR + ECS + VPC + Load Balancer
+
+Hands-on container deployment using Amazon ECR, Amazon ECS, VPC, networking, and load balancing.
+
 <a href="https://github.com/SunilYadav092/hands-on-004-ecr-ecs-elb-vpc-ecsservice-container">
-  <img src="https://img.shields.io/badge/lab-ECR%20%2B%20ECS%20%2B%20VPC-0284c7?style=for-the-badge&logo=docker&logoColor=white" alt="ECS lab" />
+<img src="https://img.shields.io/badge/View%20Lab-ECR%20%2B%20ECS%20%2B%20VPC-0284c7?style=for-the-badge&logo=amazonaws&logoColor=white" alt="ECR ECS VPC Lab" />
 </a>
+
+---
+
+### Kubernetes Labs
+
+Hands-on Kubernetes learning and cluster experimentation.
+
 <a href="https://github.com/SunilYadav092/k8s">
-  <img src="https://img.shields.io/badge/k8s-cluster%20labs-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="k8s" />
+<img src="https://img.shields.io/badge/View%20Labs-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Labs" />
 </a>
 
-</div>
+---
+
+## 🏛️ Cloud Architecture
+
+A typical containerized AWS architecture I work with:
+
+```text
+                         INTERNET
+                            |
+                            v
+                    +---------------+
+                    |      ALB      |
+                    +-------+-------+
+                            |
+                            v
+                    +---------------+
+                    |      ECS      |
+                    |  Containers   |
+                    +-------+-------+
+                            |
+                +-----------+-----------+
+                |                       |
+                v                       v
+           Amazon RDS               Amazon S3
+           PostgreSQL              Object Storage
+
+
+      +---------------------------------------------+
+      | IAM | CloudWatch | Logs | Metrics | Alerts |
+      +---------------------------------------------+
+```
+
+Architecture decisions are evaluated across:
+
+- Security
+- Reliability
+- Performance Efficiency
+- Cost Optimization
+- Operational Excellence
+- Sustainability
 
 ---
 
-## 🔎 About Me
-I’m Sunil Yadav — Technical Trainer, Cloud & Full-Stack Educator, and Site Reliability-minded engineer. I design and deliver hands-on cloud labs (AWS & Azure), create course material, coordinate certification programs, and mentor learners to build production-ready skills.
+## 🏗️ Infrastructure as Code
 
-- 🔭 Current focus: Training delivery, curriculum development, lab automation, and certification readiness  
-- 🌱 Learning: advanced observability, GitOps patterns, and resilient platform design  
-- 👯 Open to: collaborations on training content, lab automation, curriculum design, and mentoring
+Terraform is used to automate repeatable cloud infrastructure.
 
----
+```text
+Terraform
+    |
+    +-- VPC
+    +-- Subnets
+    +-- Route Tables
+    +-- Security Groups
+    +-- IAM
+    +-- EC2
+    +-- S3
+    +-- ECS
+    +-- ECR
+    +-- Load Balancer
+    +-- CloudWatch
+```
 
-## 🧰 Key Skills
-- Cloud: AWS, Azure  
-- DevOps & Infra: Docker, Kubernetes, Terraform, GitHub Actions  
-- Languages: JavaScript / TypeScript, Python, Bash  
-- Observability: Prometheus, Grafana, CloudWatch, structured logging  
-- Storage & Data: S3, PostgreSQL  
-- Tools: Git, VS Code, Linux
+Typical lifecycle:
 
----
-
-## 📚 Featured Courses & Labs
-(Provide repo links and short descriptions and I’ll replace these placeholders with project cards and badges.)
-
-- AWS Cloud Fundamentals — hands-on labs for EC2, S3, IAM, VPC, RDS  
-  Repo (example): https://github.com/SunilYadav092/aws-cloud-fundamentals
-
-- Azure Core Skills — workshops on resource mgmt, storage, networking  
-  Repo (example): https://github.com/SunilYadav092/azure-core-skills
-
-- Full-Stack Web Dev Bootcamp — project-based web apps with Node & managed DB  
-  Repo (example): https://github.com/SunilYadav092/fullstack-bootcamp
-
----
-
-## 🏫 Teaching & Workshops
-- Curriculum design for cloud certification prep (AWS & Azure)  
-- Instructor-led bootcamps with hands-on labs and assessments  
-- Student batch coordination, mentorship, and exam-readiness coaching
+```bash
+terraform init
+terraform validate
+terraform plan
+terraform apply
+terraform destroy
+```
 
 ---
 
-## 🏅 Certifications (example — confirm or replace)
-- AWS Certified Solutions Architect — Associate  
-- Microsoft Certified: Azure Fundamentals
+## 🔄 CI/CD
+
+My DevOps workflow commonly follows:
+
+```text
+Developer
+    |
+    v
+GitHub
+    |
+    v
+GitHub Actions
+    |
+    +-- Build
+    +-- Test
+    +-- Security Checks
+    +-- Docker Build
+    |
+    v
+Amazon ECR
+    |
+    v
+Amazon ECS
+    |
+    v
+Application
+    |
+    v
+CloudWatch
+```
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 🧑‍🏫 Training & Workshops
+
+I design and deliver technical training programs covering:
+
+### AWS
+
+- AWS Cloud Fundamentals
+- IAM
+- EC2
+- S3
+- VPC
+- RDS
+- Load Balancing
+- Auto Scaling
+- ECS
+- ECR
+- CloudWatch
+- AWS Well-Architected Framework
+- AWS Security Best Practices
+
+### DevOps
+
+- Git
+- GitHub
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- CI/CD
+- Infrastructure as Code
+- Monitoring
+- Observability
+
+### Microsoft Azure
+
+- Azure Fundamentals
+- Resource Management
+- Compute
+- Storage
+- Networking
+- Azure Certification Preparation
+
+---
+
+## 📚 Curriculum Development
+
+I create structured learning programs consisting of:
+
+```text
+Program
+   |
+   +-- Modules
+   |     |
+   |     +-- Lessons
+   |     +-- Concepts
+   |     +-- Demonstrations
+   |     +-- Learning Outcomes
+   |
+   +-- Hands-on Labs
+   |
+   +-- Assignments
+   |
+   +-- Assessments
+   |
+   +-- Certification Preparation
+```
+
+The learning approach connects:
+
+**Concept → Architecture → Implementation → Troubleshooting → Automation → Assessment**
+
+---
+
+## 🧠 Teaching Philosophy
+
+> **Do not just learn the service. Understand the architecture behind the service.**
+
+My training focuses on helping learners understand:
+
+- What a service does
+- Why it is used
+- When it should be used
+- How it is implemented
+- How it is secured
+- How it is monitored
+- How it fails
+- How it is troubleshot
+- How it can be automated
+
+---
+
+## 🏅 Certifications
+
+Certification details can be maintained here based on verified credentials.
+
+- AWS Certifications
+- Microsoft Azure Certifications
+- Cloud and DevOps Certifications
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=SunilYadav092&theme=transparent&hide_border=true&ring=0ea5e9&fire=38bdf8" alt="GitHub streak" />
-</div>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com?user=SunilYadav092&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/SunilYadav092?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/SunilYadav092?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+<a href="https://github.com/SunilYadav092?tab=stars">
+<img src="https://img.shields.io/badge/My%20Stars-Explore-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub stars" />
+</a>
+
+<a href="https://github.com/SunilYadav092?tab=repositories&type=source">
+<img src="https://img.shields.io/badge/Source%20Repositories-View-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="Source repositories" />
 </a>
 
 </div>
 
+### Contribution Activity
+
+GitHub's native contribution graph is intentionally used instead of an external contribution API.
+
+You can view the complete contribution history directly on my GitHub profile:
+
+https://github.com/SunilYadav092
+
 ---
 
-<details>
-<summary><b>More Projects</b></summary>
+## 📂 Repository Focus
 
-- Add your project links and short descriptions here — I can format them with badges, CI/coverage links, and demo links.
-
-</details>
+| Category | Focus |
+|:---|:---|
+| ☁️ AWS | Cloud architecture and AWS implementations |
+| 🏗️ Terraform | Infrastructure as Code |
+| 🐳 Docker | Containerization |
+| ☸️ Kubernetes | Container orchestration |
+| 🔄 CI/CD | GitHub Actions and automation |
+| 📊 Observability | CloudWatch, Prometheus, Grafana |
+| 🎓 Training Labs | Hands-on technical learning |
+| 📚 Learning Resources | Cloud and DevOps education |
 
 ---
+
+## 📡 Connect
 
 <div align="center">
 
-### 📡 Connect
+<a href="https://github.com/SunilYadav092">
+<img src="https://img.shields.io/badge/GitHub-SunilYadav092-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-SunilYadav092-0f172a?style=for-the-badge&logo=github)](https://github.com/SunilYadav092)
-[![Website](https://img.shields.io/badge/Website-Visit-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](http://myprofile-aws.s3-website-us-east-1.amazonaws.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-yadav-y/)
-[![X](https://img.shields.io/badge/X-@SUNILYADAVgo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SUNILYADAVgo)
+<a href="http://myprofile-aws.s3-website-us-east-1.amazonaws.com/">
+<img src="https://img.shields.io/badge/Website-Visit-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
 
-<br/>
+<a href="https://www.linkedin.com/in/sunil-yadav-y/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:sunilyadavy092@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://x.com/SUNILYADAVgo">
+<img src="https://img.shields.io/badge/X-@SUNILYADAVgo-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+
+<br/><br/>
 
 <pre>
-  ☁️  Sunil — Deep Blue. Calm by nature. Cloud by profession;
+☁️ Sunil Yadav
+AWS Lead Coach | Cloud & DevOps Trainer
+Build. Automate. Monitor. Improve.
 </pre>
 
-<sub>built for the cloud · tuned for reliability · named for the weather</sub>
+<sub>Cloud focused · Hands-on learning · Infrastructure automation · Reliability</sub>
 
 </div>
 
-_Last updated: 2026-08-12_
+---
+
+_Last updated: August 24, 2026_
